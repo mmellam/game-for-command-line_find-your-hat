@@ -1,0 +1,11 @@
+{
+  "name": "find-your-hat",
+  "version": "1.0.0",
+  "description": "A maze-solving game for the terminal.",
+  "main": "main.js",
+  "author": "Melanie Bucher",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.7"
+  }
+}
